@@ -5,6 +5,9 @@ https://github.com/lukapopovici/Click-Me/assets/128390767/34526663-bc74-4269-ac5
 
 Small game made on the browser using Vanilla Javascript a bit of HTML5 and CSS. </br>Made for the purpose of learning Javascript and Web Development.
 
+## Try it yourself
+Here: https://lukapopovici.github.io/Click-Me/
+
 ## The objective
 
 The point of the game is to click on as many dots as you can before they run out. 
